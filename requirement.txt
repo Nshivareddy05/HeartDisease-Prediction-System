@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+torch
+torch-directml
+sqlite3
